@@ -15,7 +15,7 @@ import com.tagloy.tagbiz.R;
 
 
 public class ArchiveFragment extends Fragment {
-    CardView cardView, cardViewHorizontal;
+  
     TextView txtHeading1, txtHeading2, txtHeading3, txtHeading4, txtHeading5, txtHeading6, txtHeading7, txtHeading8, txtHeading9, txtHeading10, txtFooter, txthoriZontal1, txthoriZontal2, txthoriZontal3, txthoriZontal4, txthoriZontal5, txthoriZontal6;
     private Context mContext;
 
