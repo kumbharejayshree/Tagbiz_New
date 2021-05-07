@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006D85</color>
+    <color name="colorPrimaryDark">#388a9c</color>
+    <color name="colorAccent">#982B49</color>
+    <color name="colorPrimaryOpac">#90006D85</color>
+    <color name="White">#fff</color>
+    <color name="red">#d61512</color>
+    <color name="editBox">#4e4d4d</color>
+    <color name="darkBlue">#2e6e80</color>
+    <color name="radioBittonColor">#941D20</color>
+    <color name="BlueColor">#10a1ef</color>
+    <color name="GrayColor">#FF8E8EA3</color>
+    <color name="YellowColor">#FFF5E106</color>
+    <color name="Black">#000</color>
+
+</resources>
